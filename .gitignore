@@ -164,3 +164,11 @@ data/*.csv
 kaggle.json
 
 weatherAUS.csv
+
+test_inputs.parquet
+train_inputs.parquet
+val_inputs.parquet
+
+test_targets.parquet
+train_targets.parquet
+val_targets.parquet
