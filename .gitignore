@@ -162,7 +162,7 @@ cython_debug/
 
 data/*.csv
 kaggle.json
-
+P00000001-CA.csv
 weatherAUS.csv
 
 test_inputs.parquet
