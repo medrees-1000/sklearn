@@ -1,0 +1,15 @@
+{
+    "id": "mohammad123wick/something-i-did-maybe",
+    "title": "Something I did Maybe?",
+    "code_file": "./Project_1.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [
+      "mohammad123wick/medical"
+    ],
+    "competition_sources": [],
+    "kernel_sources": []
+  }
