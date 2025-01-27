@@ -172,3 +172,5 @@ val_inputs.parquet
 test_targets.parquet
 train_targets.parquet
 val_targets.parquet
+
+medical.csv
