@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - **Optimized solutions** for competitive programming.
 
 ### **2️⃣ Machine Learning Projects**
-- Contains machine learning projects covering **supervised & unsupervised learning**.
+- Contains machine learning projects covering **supervised**.
 - **Feature engineering, model building, and hyperparameter tuning**.
 - Projects include **gradient descent, model selection, and real-world datasets**.
 
